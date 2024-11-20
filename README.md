@@ -9,5 +9,5 @@ I'm a C programmer with a focus on high-performance computing and forward modeli
 - High Redshift Galaxy Evolution
 
 ## 📈 GitHub Stats
-![Will Roper's GitHub stats](https://github-readme-stats.vercel.app/api?username=willroper&show_icons=true&theme=dark)
+![Will Roper's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjroper&show_icons=true&theme=dark)
 
