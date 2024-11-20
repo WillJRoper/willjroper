@@ -1,5 +1,5 @@
-# Hi, I'm Will Roper 👋
-I'm a C programmer with a focus on high-performance computing and forward modeling for astrophysics.
+# Hi, I'm Dr Will Roper 👋
+I'm an astrophysicist and software developer focusing on high-performance computing, CLI tools, and forward modelling synthetic observations.
 
 ## 🛠️ Skills
 - C, C++, Python
