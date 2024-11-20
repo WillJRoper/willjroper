@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Will Roper 👋
+I'm a C programmer with a focus on high-performance computing and forward modeling for astrophysics.
 
-<!--
-**WillJRoper/willjroper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- C, C++, Python
+- HPC and Parallel Computing
+- Astrophysics
+- Data Science
+- High Redshift Galaxy Evolution
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Will Roper's GitHub stats](https://github-readme-stats.vercel.app/api?username=willroper&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
